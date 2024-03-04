@@ -16,3 +16,5 @@ my_list.sort()
 index_of_30 = my_list.index(30)
 
 print("Index of 30 in my_list:", index_of_30)
+
+print("Modified list:", my_list)
