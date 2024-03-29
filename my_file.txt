@@ -1,0 +1,6 @@
+Hello, this is line 1.
+12345
+This is line 3 with some special characters like !@#$%
+This is line 4 added in append mode.
+Appending another line, line 5.
+The last line, line 6.
